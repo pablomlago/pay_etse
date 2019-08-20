@@ -1,0 +1,11 @@
+Rosa *
+Manuel Juan 50 Regalo de cumple
+Paco Julia 30.75 Pago cena
+Manuel David 50 Deuda partida poker
+Ana Juan 35 Deposito de habitacion de hotel
+Juan Julia 250 Pago bicicleta
+David Ana 150 Pension semanal
+Rafa Julia 20 Contribucion para regalo de Paco
+Manuel Julia 20 Contribucion para regalo de Paco
+David Julia 20 Contribucion para regalo de Paco
+Juan Julia 20 Contribucion para regalo de Paco
