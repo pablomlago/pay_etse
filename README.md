@@ -1,2 +1,2 @@
-# pay_etse
+# PayETSE
 Algorithms and Data Structures exercise
